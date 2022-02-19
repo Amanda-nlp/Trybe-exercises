@@ -1,3 +1,4 @@
+Conteúdo aprendido no módulo de Front-end:
 Introdução à React;
 Componentes com Estado, Eventos e Formuários com React;
 Ciclo de Vida de Componentes e React Router;
