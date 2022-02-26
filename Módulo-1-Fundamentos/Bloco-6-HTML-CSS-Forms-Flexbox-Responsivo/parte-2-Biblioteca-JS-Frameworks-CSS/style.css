@@ -1,0 +1,44 @@
+#nome-completo {
+    border: 1px solid currentColor;
+}
+#nome-completo:invalid {
+    border: 1px solid red;
+}
+#nome-completo:invalid:focus {
+    background-image: linear-gradient(pink, lightgreen);
+}
+
+
+#email-usuario {
+    border: 1px solid currentColor;
+}
+#email-usuario:invalid {
+    border: 1px solid red;
+}
+#email-usuario:invalid:focus {
+    background-image: linear-gradient(pink, lightgreen);
+}
+
+
+#texto-ganhar-concurso {
+    border: 1px solid currentColor;
+    width: 600px;
+    height: 200px;
+}
+#texto-ganhar-concurso:invalid {
+    border: 1px solid red;
+}
+#texto-ganhar-concurso:invalid:focus {
+    background-image: linear-gradient(pink, lightgreen);
+}
+
+
+#melhor-data {
+    border: 1px solid currentColor;
+}
+#melhor-data:invalid {
+    border: 1px solid red;
+}
+#melhor-data:invalid:focus {
+    background-image: linear-gradient(pink, lightgreen);
+}
