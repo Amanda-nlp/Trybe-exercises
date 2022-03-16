@@ -3,5 +3,5 @@
 3. Adicionar e remover elementos HTML da página via JavaScript;
 4. Buscar os elementos da página;
 5. Mudar o conteúdo, estilo e outros atributos de elementos HTMT a partir de eventos do JavaScript;
-6. Manipulação do objeto localStorage e sessionStorage;
+6. Manipulação do objeto localStorage e sessionStorage.
 
